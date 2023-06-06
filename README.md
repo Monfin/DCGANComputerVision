@@ -3,7 +3,7 @@ Simple Deep Convolution Generative Adversarial Network for Fashion-MNIST
 
 ## 0. Import Fashion-MNIST dataset
 Example
-![image](https://github.com/Monfin/DCGANComputerVision/assets/132058047/2dd3fcf3-9d52-4505-a6f0-34a0d63c784e)
+![image](https://github.com/Monfin/DCGANComputerVision/assets/132058047/1ebafc18-e01f-479c-83a8-024431f63698)
 
 
 ## 1. Generator
@@ -11,7 +11,7 @@ Example
 ### 1.2 Convolutional blocks: Conv2DTranspose - BatchNormalization - Selu
 ### 1.3 Activation function: tanh
 Example
-![image](https://github.com/Monfin/DCGANComputerVision/assets/132058047/9cdcf592-6f47-4db9-aafe-3fcaa05cc633)
+![image](https://github.com/Monfin/DCGANComputerVision/assets/132058047/af42de04-33c1-4b3e-82c6-878e0101453e)
 
 ## 2. Discriminator
 ### 2.1 Input: images
@@ -26,10 +26,10 @@ Example
 
 ## 4. Train model
 ### Epoch 1
-![image](https://github.com/Monfin/DCGANComputerVision/assets/132058047/94cf2e92-c0da-4ac6-ae7d-4f7de3baa353)
+![image](https://github.com/Monfin/DCGANComputerVision/assets/132058047/d2a953ff-01e1-40e1-bce1-1cf6ee5c542a)
 
 ### Epoch 3
-![image](https://github.com/Monfin/DCGANComputerVision/assets/132058047/e84702f9-1cdf-45e3-8499-3452a5cea73c)
+![image](https://github.com/Monfin/DCGANComputerVision/assets/132058047/96e192a9-2100-461f-9d24-4b12e4c73304)
 
 ### Epoch 5
-![image](https://github.com/Monfin/DCGANComputerVision/assets/132058047/bfc5328f-9ffb-4513-b6ce-6dd736671e35)
+![image](https://github.com/Monfin/DCGANComputerVision/assets/132058047/3621b980-6f14-4682-a590-2af33c43a525)
