@@ -26,10 +26,10 @@ Example
 
 ## 4. Train model
 ### Epoch 1
-![image](https://github.com/Monfin/DCGANComputerVision/assets/132058047/d2a953ff-01e1-40e1-bce1-1cf6ee5c542a)
-
-### Epoch 3
-![image](https://github.com/Monfin/DCGANComputerVision/assets/132058047/96e192a9-2100-461f-9d24-4b12e4c73304)
+![image](https://github.com/Monfin/DCGANComputerVision/assets/132058047/b78f3399-0048-48db-b92b-7cec993071f1)
 
 ### Epoch 5
-![image](https://github.com/Monfin/DCGANComputerVision/assets/132058047/3621b980-6f14-4682-a590-2af33c43a525)
+![image](https://github.com/Monfin/DCGANComputerVision/assets/132058047/8ceef6c3-6aa8-4688-8fe7-4961d06d4921)
+
+### Epoch 10
+![image](https://github.com/Monfin/DCGANComputerVision/assets/132058047/d2252407-7b5b-4aae-aa48-c560848f618b)
