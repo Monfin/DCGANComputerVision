@@ -1,5 +1,5 @@
 # DCGANComputerVision
-Simple Deep Convolutional Generative Adversarial Network for Fashion-MNIST
+Simple Deep Convolutional Generative Adversarial Network for Fashion-MNIST (TensorFlow)
 
 ## 0. Import Fashion-MNIST dataset
 Example
